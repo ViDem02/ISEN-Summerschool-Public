@@ -1,0 +1,17 @@
+[
+  {
+    "normalize": {
+      "method": "robust",
+      "q_low": 0.26,
+      "q_high": 0.8300000000000001
+    }
+  },
+  {
+    "pca": {
+      "explained_variance": 0.85
+    }
+  },
+  {
+    "interleaved": {}
+  }
+]
